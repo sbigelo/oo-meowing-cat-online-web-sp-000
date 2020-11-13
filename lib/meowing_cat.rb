@@ -1,0 +1,4 @@
+class Cat 
+  i
+  
+end
